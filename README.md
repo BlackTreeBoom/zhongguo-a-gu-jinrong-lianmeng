@@ -4,12 +4,12 @@
 
 当前收录：
 
-- `xueqiu-wunianguoyi`
-- `bilibili-graham-laolin`
-- `xueqiu-dayinwuyan`
-- `xueqiu-jinrongjie-xingcang`
-- `xueqiu-metalslime`
-- `charlie-munger`
+- `雪球-五年过亿`
+- `bilibili-格雷厄姆老林`
+- `雪球-大隐无言`
+- `雪球-金融街行藏`
+- `雪球-metalslime`
+- `查理芒格`
 
 原则：
 
