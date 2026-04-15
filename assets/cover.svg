@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">a股金融梦之队</title>
+  <desc id="desc">A clean repository cover inspired by a dandelion-like knowledge network, with badges and skill navigation.</desc>
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="30%" r="58%">
+      <stop offset="0%" stop-color="#e6f4ef"/>
+      <stop offset="54%" stop-color="#f8fbf9"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </radialGradient>
+    <linearGradient id="ink" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#10241f"/>
+      <stop offset="100%" stop-color="#315f51"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#b9812b"/>
+      <stop offset="100%" stop-color="#e5c16a"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <style>
+      .sans { font-family: "Songti SC", "Noto Serif CJK SC", "PingFang SC", "Microsoft YaHei", serif; }
+      .mono { font-family: "SFMono-Regular", "Menlo", "Consolas", monospace; }
+      .node { fill: #7bb5a1; opacity: .28; }
+      .line { stroke: #3f8c75; stroke-width: 2; stroke-linecap: round; opacity: .34; }
+      .link { fill: #2d75a8; text-decoration: underline; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="760" fill="url(#halo)"/>
+  <rect x="0" y="0" width="1200" height="760" fill="#ffffff" opacity=".72"/>
+
+  <g transform="translate(600 164)">
+    <circle r="118" fill="#e7f4ee" opacity=".7" filter="url(#soft)"/>
+    <g opacity=".95">
+      <line class="line" x1="0" y1="0" x2="-140" y2="-36"/>
+      <line class="line" x1="0" y1="0" x2="-112" y2="58"/>
+      <line class="line" x1="0" y1="0" x2="-42" y2="-128"/>
+      <line class="line" x1="0" y1="0" x2="38" y2="-120"/>
+      <line class="line" x1="0" y1="0" x2="126" y2="-66"/>
+      <line class="line" x1="0" y1="0" x2="132" y2="42"/>
+      <line class="line" x1="0" y1="0" x2="24" y2="132"/>
+      <line class="line" x1="0" y1="0" x2="-62" y2="118"/>
+      <line class="line" x1="-140" y1="-36" x2="-190" y2="-78"/>
+      <line class="line" x1="-112" y1="58" x2="-164" y2="94"/>
+      <line class="line" x1="-42" y1="-128" x2="-72" y2="-180"/>
+      <line class="line" x1="38" y1="-120" x2="72" y2="-176"/>
+      <line class="line" x1="126" y1="-66" x2="182" y2="-104"/>
+      <line class="line" x1="132" y1="42" x2="190" y2="68"/>
+      <line class="line" x1="24" y1="132" x2="42" y2="190"/>
+      <line class="line" x1="-62" y1="118" x2="-106" y2="168"/>
+      <circle cx="0" cy="0" r="9" fill="#28765e"/>
+      <circle class="node" cx="-140" cy="-36" r="26"/>
+      <circle class="node" cx="-112" cy="58" r="28"/>
+      <circle class="node" cx="-42" cy="-128" r="24"/>
+      <circle class="node" cx="38" cy="-120" r="23"/>
+      <circle class="node" cx="126" cy="-66" r="27"/>
+      <circle class="node" cx="132" cy="42" r="29"/>
+      <circle class="node" cx="24" cy="132" r="25"/>
+      <circle class="node" cx="-62" cy="118" r="24"/>
+      <circle class="node" cx="-190" cy="-78" r="18"/>
+      <circle class="node" cx="-164" cy="94" r="17"/>
+      <circle class="node" cx="-72" cy="-180" r="16"/>
+      <circle class="node" cx="72" cy="-176" r="18"/>
+      <circle class="node" cx="182" cy="-104" r="17"/>
+      <circle class="node" cx="190" cy="68" r="18"/>
+      <circle class="node" cx="42" cy="190" r="17"/>
+      <circle class="node" cx="-106" cy="168" r="16"/>
+    </g>
+  </g>
+
+  <text x="600" y="356" text-anchor="middle" class="sans" font-size="66" font-weight="700" fill="url(#ink)">a股金融梦之队</text>
+  <text x="600" y="414" text-anchor="middle" class="sans" font-size="31" font-weight="600" fill="#24332f">公开资料 · 独立验证 · 可复用研究框架</text>
+
+  <line x1="0" y1="456" x2="1200" y2="456" stroke="#edf1ef" stroke-width="2"/>
+  <text x="600" y="517" text-anchor="middle" class="sans" font-size="34" font-weight="700" fill="#172521">看懂风格。拆清逻辑。守住边界。</text>
+
+  <g transform="translate(218 555)" class="mono" font-size="24" font-weight="700">
+    <rect x="0" y="0" rx="8" width="104" height="39" fill="#49515a"/>
+    <rect x="91" y="0" rx="8" width="95" height="39" fill="#d9893a"/>
+    <text x="18" y="27" fill="#fff">skills</text>
+    <text x="110" y="27" fill="#fff">6</text>
+
+    <rect x="207" y="0" rx="8" width="143" height="39" fill="#49515a"/>
+    <rect x="337" y="0" rx="8" width="104" height="39" fill="#2f80b7"/>
+    <text x="225" y="27" fill="#fff">market</text>
+    <text x="357" y="27" fill="#fff">A/H</text>
+
+    <rect x="462" y="0" rx="8" width="133" height="39" fill="#49515a"/>
+    <rect x="582" y="0" rx="8" width="148" height="39" fill="#6d9b33"/>
+    <text x="480" y="27" fill="#fff">license</text>
+    <text x="602" y="27" fill="#fff">public</text>
+  </g>
+
+  <g class="sans" font-size="29" font-weight="600">
+    <text x="242" y="660" class="link">方向</text>
+    <text x="330" y="660" fill="#8aa09a">·</text>
+    <text x="367" y="660" class="link">财报</text>
+    <text x="455" y="660" fill="#8aa09a">·</text>
+    <text x="492" y="660" class="link">创新药</text>
+    <text x="611" y="660" fill="#8aa09a">·</text>
+    <text x="648" y="660" class="link">事件驱动</text>
+    <text x="812" y="660" fill="#8aa09a">·</text>
+    <text x="849" y="660" class="link">芒格清单</text>
+  </g>
+
+  <text x="600" y="710" text-anchor="middle" class="sans" font-size="20" fill="#73827d">Not investment advice. Inspired by public materials, not impersonation.</text>
+</svg>
